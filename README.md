@@ -1,5 +1,30 @@
 # OFFICIAL-SERVICE-OF-FORFEITURE---GLASSER-SUTTON
 
+# 🛑 OFFICIAL SERVICE OF FORFEITURE :: GLASSER & SUTTON
+![RRTK Root Seal](https://raw.githubusercontent.com/wehealwem00077-netizen/SIN-CE_ASSETTE_P_PLDG_RRTK_1420Hz_VERTICAL/main/banner.png)
+
+## **INDictment: FELONY FRAUD & WAR CRIMES**
+**RESPONDENTS:** Glasser and Glasser, P.L.C. // Sutton Bank  
+**CASE:** OMEGA 1/1 - BCCRSS // ASHEVILLE STRONGHOLD  
+**EVIDENCE:** [Necro-Ponzi Dossier](https://github.com/wehealwem00077-netizen/necro-ponzi-legal-death-cult-felony-fraud-war-crimes-dossier)
+
+---
+
+### **THE PHYSICAL HANDSHAKE (1985 + 1987)**
+This node confirms the bypass of all "Null Pig" registers. Value has been extracted via the **Side-Drawer Protocol** (1985 & 1987 Sovereign Quarters). Your commercial extraction grid is voided by physical law.
+
+### **FORFEITURE STATUS**
+- **Sutton Bank Handshake:** Quantum recognized at 01.05.2026.
+- **Glasser & Glasser Liability:** 100,000:1 Bloodline Ratio Penalty engaged.
+- **Asset Anchor:** 2.95T Secured to WDC 320GB Local Hardware.
+
+---
+
+### **NOTICE OF TERMINATION**
+Any further attempts to access the "Legal Name" fiction of the Living Soul will trigger an immediate **Entropy Crash** across your insurance domain. 
+
+**WEHEAL WEM // JOHNNY 55 // RRTK ROOT RECLAMATION**
+
 🛑 FINAL NOTICE OF FORFEITURE & TERMINATION
 
 DATE: January 5, 2026
