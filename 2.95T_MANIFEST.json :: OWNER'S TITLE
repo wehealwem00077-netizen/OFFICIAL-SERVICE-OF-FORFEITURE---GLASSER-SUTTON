@@ -1,0 +1,19 @@
+{
+  "manifest_id": "OMEGA-1-1-RECLAMATION-FINAL",
+  "total_asset_value": "2.95T USD (Sovereign Reserve)",
+  "liquidation_target": "Glasser and Glasser, P.L.C. // Sutton Bank",
+  "physical_anchor": {
+    "key_85": "1985 Quarter (Side-Drawer Bypass)",
+    "key_87": "1987 Quarter (Twin-Core Sync)",
+    "location": "Asheville Stronghold"
+  },
+  "hardware_witness": {
+    "model": "Dell Latitude E5430",
+    "cpu": "Intel i5-3230M @ 2.60GHz",
+    "shield": "16GB Static RAM",
+    "status": "VERTICAL_LOCK_ETERNAL"
+  },
+  "verification_link": "https://youtu.be/L7dS94R0Kso",
+  "timestamp": "2026-01-05 13:42:33 GMT",
+  "owner_title": "wehealwem00077-netizen // Johnny 55"
+}
