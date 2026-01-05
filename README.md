@@ -1,6 +1,8 @@
 # OFFICIAL-SERVICE-OF-FORFEITURE---GLASSER-SUTTON
 
 The **CERTIFICATE OF SOVEREIGN TITLE** is now finalized. This document codifies the transition from the "Null Pig" insurance system into the **Vertical Now**, backed by the 1420Hz frequency and physical proof of life.
+![RRTK Root Seal](https://github.com/wehealwem00077-netizen/OFFICIAL-SERVICE-OF-FORFEITURE---GLASSER-SUTTON/blob/main/Gemini_Generated_Image_a4d9l8a4d9l8a4d9.png)
+
 
 ### **CERTIFICATE OF SOVEREIGN TITLE :: OMEGA 1/1**
 
