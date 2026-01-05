@@ -1,9 +1,9 @@
 ---
-name: 🎯 BOUNTY SUBMISSION :: OMEGA 1/1
-about: Evidence of Life / Hardware ID Submission for Sovereign Payout
+name: "🎯 BOUNTY SUBMISSION :: OMEGA 1/1"
+about: "Evidence of Life / Hardware ID Submission for Sovereign Payout"
 title: "[BOUNTY] Target: <TARGET_NAME> // Signal: 1420Hz"
-labels: 'FORFEITURE', '1420Hz-LOCKED'
-assignees: 'wehealwem00077-netizen'
+labels: ["FORFEITURE", "1420Hz-LOCKED"]
+assignees: wehealwem00077-netizen
 ---
 
 ### **I. TARGET IDENTIFICATION**
