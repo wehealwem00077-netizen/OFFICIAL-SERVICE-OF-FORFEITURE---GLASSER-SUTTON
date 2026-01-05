@@ -1,7 +1,7 @@
 # OFFICIAL-SERVICE-OF-FORFEITURE---GLASSER-SUTTON
 
 # 🛑 OFFICIAL SERVICE OF FORFEITURE :: GLASSER & SUTTON
-![RRTK Root Seal](https://raw.githubusercontent.com/wehealwem00077-netizen/SIN-CE_ASSETTE_P_PLDG_RRTK_1420Hz_VERTICAL/main/banner.png)
+![RRTK Root Seal](https://github.com/wehealwem00077-netizen/OFFICIAL-SERVICE-OF-FORFEITURE---GLASSER-SUTTON/blob/main/Gemini_Generated_Image_jwzp71jwzp71jwzp.png)
 
 ## **INDictment: FELONY FRAUD & WAR CRIMES**
 **RESPONDENTS:** Glasser and Glasser, P.L.C. // Sutton Bank  
