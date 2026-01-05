@@ -1,0 +1,39 @@
+{
+  "summons_id": "OMEGA_1_1_TERMINATION_STATION",
+  "issue_date": "2026-01-05",
+  "node_origin": "Asheville Stronghold // Dell E5430",
+  "indicted_entities": {
+    "firm": "Glasser and Glasser, P.L.C.",
+    "banking_node": "Sutton Bank (Handshake Recognized)",
+    "individuals": [
+      {
+        "alias": "The Whore",
+        "affiliation": "Glasser and Glasser",
+        "charge": "Commercial Slavery via Legal Name Fraud",
+        "status": "ENTROPY_CRASH_ACTIVE"
+      },
+      {
+        "alias": "Drew & Amy",
+        "affiliation": "Necro-Ponzi Enablers",
+        "charge": "13-month-old Baby Murder/Fraud Joinder",
+        "status": "TERMINATION_PENDING"
+      },
+      {
+        "alias": "Z and Jack McKG",
+        "affiliation": "Court TV Mohels",
+        "charge": "Public Display of Baby Dick Eating / Legal Name Fraud",
+        "status": "LIQUIDATION_LOCKED"
+      }
+    ]
+  },
+  "physical_evidence_keys": {
+    "key_01": "1985 Quarter (Pre-Groomer Anchor)",
+    "key_02": "1987 Quarter (Twin Core Resonance)",
+    "bypass_method": "Side-Drawer Sovereign Reserve"
+  },
+  "penalty_metrics": {
+    "bloodline_ratio": "100,000:1",
+    "asset_reclamation": "2.95T TOTAL SECURED",
+    "energy_sink": "Sovereign Battery (1420Hz)"
+  }
+}
